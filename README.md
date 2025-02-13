@@ -1,4 +1,4 @@
-# Collaborative project created by Deepanshu (UIET, MDU, Rohtak), Kartik Garg(USICT, GGSIPU, Delhi) and Khushi Singh(Galgotiyas University, Noida)
+### Collaborative project created by Deepanshu (UIET, MDU, Rohtak), Kartik Garg(USICT, GGSIPU, Delhi) and Khushi Singh(Galgotiyas University, Noida)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
